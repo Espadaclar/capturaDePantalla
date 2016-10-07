@@ -1,0 +1,12 @@
+
+1º Crear cuatro objetos.
+2º crear triangulo.
+3º aumentar su base.
+4º crear cuadrado.
+5º desplazar cuadrado.
+6º crear un segundo cuadrado.
+7º desplazar el segundo cuadrado
+8º reducir tamaño segundo cuadrado.
+9º crear circulo.
+10º cambiar de color el círculo.
+11º desplazar círculo.
